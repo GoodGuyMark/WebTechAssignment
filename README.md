@@ -7,7 +7,8 @@ How to install the application:
 2. Create the database by running the .sql file in a local MySQL server (You will need the MySQL Workbench to do this. You can download this here: https://dev.mysql.com/downloads/workbench/)
 3. Import your project into a Java IDE (I use Eclipse but other IDEs should have no problem running this).
 4. Create a Wildfly server to be able to run the project. You can download the latest version of Wildfly here: https://www.wildfly.org/
-5. To start the application, run the project on the recetnly created Wildfly server.
+5. Add the datasource and JDBC driver to bind to the server. This can be done by in the administrative console on a Wildfly server by going to http://localhost:8080/ and clikcing 'Administration Console'. From there, click on 'Configuration' on the navigation bar and click 'Subsystems' -> 'Datasources & Drivers' to add datasources and drivers. If it is your first time creating a Wildfly server, you will have to create an admin user to access the admin console.
+6. To start the application, run the project on the recetnly created Wildfly server.
 
 How to use the application:
 1. 
