@@ -1,10 +1,3 @@
-This is a Maven, single page web application that uses RESTful web services, along with CRUD actions from a MySQL database.
-The database consists of users and items and CRUD actions can be performed on both.
-The application is run on a local Wildfly server.
-The architecture for the project is detailed below:
+# Web Technologies Assignment
 
-![image](https://user-images.githubusercontent.com/68013944/114874873-a6be4300-9df4-11eb-9bd2-fbf12f1fcd37.png)
-
-Note: Functionality for the web app only works on Google Chrome or Microsoft Edge.
-
-Testing includes both unit tests and integration tests. Integration tests can be run using the Maven command: mvn clean test -Parq-wildfly-remote
+This project was an assignment in my Web Technologies module during my Masters course. It is a Java, single page web application (SPA) that uses RESTful web services, along with CRUD actions from a MySQL database. We were also tasked with implementing a Bootstrap CSS into out front-end and implementing login functionality with an admin dashboard.
