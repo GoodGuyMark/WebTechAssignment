@@ -16,4 +16,5 @@ How to use the application:
 3. Clicking the 'Info' button on any of the entities bring up a modal pop-up with the full details of that entity. From here you can perform CRUD actions on that entity and also create a new entity. 
 4. To create a new user, click the green 'Add New User' button at the top of the modal. The forms will empty and you can enter your details for the new user. When oyu are finished entering your details click the blue 'Save New User' button at the bottom of the modal to successfully create the new user.
 5. To update a user's details, click the 'Info' button on that user and edit the necessary details. Click the yellow 'Update User' button to confirm the changes.
-6.  
+6. To delete a user, click the 'Info' button on the user you want to delete and then click the red 'Delete' button.
+7. Points 3-6 can be done similarly for the games table.
