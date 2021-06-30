@@ -1,6 +1,6 @@
 # Web Technologies Assignment
 
-This project was an assignment in my Web Technologies module during my Masters course. It is a Java, single page web application (SPA) that uses RESTful web services, along with CRUD actions from a MySQL database. The project is run on a local Wildfly server and we were also tasked with implementing a Bootstrap CSS into out front-end. The application manages two entities, users and an entity of your our choice (I chose games). Both these entities are to be able to have CRUD actions performed on them.
+This project was an assignment in my Web Technologies module during my Masters course. It is a Java, single page web application (SPA) that uses RESTful web services, along with CRUD actions from a MySQL database. The project is run on a local Wildfly server and we were also tasked with implementing a Bootstrap CSS into out front-end. The application manages two entities, users and an entity of my choice (I chose games). Both these entities are to be able to have CRUD actions performed on them.
 
 How to install the application:
 1. Download the code by cloning the repository or downloading the zip folder directly.
