@@ -18,3 +18,4 @@ How to use the application:
 5. To update a user's details, click the 'Info' button on that user and edit the necessary details. Click the yellow 'Update User' button to confirm the changes.
 6. To delete a user, click the 'Info' button on the user you want to delete and then click the red 'Delete' button.
 7. Points 3-6 can be done similarly for the games table.
+8. To log out of the application, click the button on the top right and confirm you want to log out.
