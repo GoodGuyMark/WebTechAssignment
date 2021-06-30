@@ -8,7 +8,7 @@ How to install the application:
 3. Import your project into a Java IDE (I use Eclipse but other IDEs should have no problem running this).
 4. Create a Wildfly server to be able to run the project. You can download the latest version of Wildfly here: https://www.wildfly.org/
 5. Add the datasource and JDBC driver to bind to the server. This can be done by starting the Wildfly server and going to http://localhost:8080/ on a web browser and clikcing 'Administration Console'. From there, click on 'Configuration' on the navigation bar and click 'Subsystems' -> 'Datasources & Drivers' to add datasources and drivers. If it is your first time creating a Wildfly server, you will have to create an admin user to access the admin console.
-6. To start the application, run the project on the recetnly created Wildfly server.
+6. To start the application, run the project on the newly created Wildfly server.
 
 How to use the application:
 1. Upon starting the application you are brought to the login screen. Here you will enter a username and password and log in as that user. You can use the username 'user1' and password 'password1' to log in as one of the users already hardcoded into the database. 
